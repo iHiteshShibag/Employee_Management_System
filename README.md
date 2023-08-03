@@ -56,7 +56,10 @@ Apache NetBeans Website.
 
 •Please note that you should have the MySQL server running before you start the application.
 
-
 •Once you've ensured that all of these prerequisites are met, you should be able to successfully compile, run, and contribute to this project.
+
+# Contributing
+
+•I am open to collaborations and contributions to this project. Feel free to check out the project, run the code, and suggest any improvements or features you'd like to see.
 
 
